@@ -82,3 +82,9 @@ perfil; si no, se usa Ana García (comportamiento del prototipo). **No hay auten
 - Textos en código (`Textos.kt`), sin internacionalización.
 - El proyecto es un único módulo Gradle con capas por paquetes; separar `data/domain` en un módulo propio es posible si se requiere.
 - Ícono `.ico` de Windows para el instalador no incluido (se usa el logo en la ventana).
+
+
+Elaborado por
+Daniel Esteban Arciniegas Barrera
+Maria Jose Peña Anacona
+Dayerli Katerine Tamayo Solarte
